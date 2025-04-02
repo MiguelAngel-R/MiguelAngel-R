@@ -1,16 +1,32 @@
-## Hi there 👋
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola! 👋, soy Miguel Angel</h1></summary>
+  </ul>
+</div>
 
-<!--
-**MiguelAngel-R/MiguelAngel-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/cxtTPZ7.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,mysql,py,vscode" />
+  </a>
+</p>
+
+
+
+<p align="center">
+<a href="https://github.com/MiguelAngel-R">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelAngel-R&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelAngel-R&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
